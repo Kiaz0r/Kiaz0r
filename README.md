@@ -1,4 +1,4 @@
-### Olá, eu sou o William. 😉
+### Olá, eu sou o William. 👋🏽
 
 - 🔍 Buscando emprego
 - 🌱 Estudando Python
