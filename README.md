@@ -1,16 +1,23 @@
-### Hi there 👋
+### Olá, eu sou o William. 😉
 
-<!--
-**Kiaz0r/Kiaz0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔍 Buscando emprego
+- 🌱 Estudando Python
+- 😄 Pronomes: ele/dele
 
-Here are some ideas to get you started:
+<div>
+  <a href="">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kiaz0r&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiaz0r&layout=compact&theme=dark"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Kiaz0r-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="right" alt="Kiaz0r-Avatar" height="150" width="150" src="https://cdn.discordapp.com/attachments/696467083646730393/1103044084756656198/1a1d3d29-91d6-437c-8243-f2d75c64d3ed.png">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div>
+  <a href="https://www.instagram.com/kiaz0r/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/william-rocha-418a04203/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+![Snake animation](https://github.com/kiaz0r/blob/output/github-contribution-grid-snake.svg)
+</div>
