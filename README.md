@@ -5,12 +5,12 @@
 
 <div><br>
     <a href="#">
-        <img align="center" alt="Kiaz0r-Stats" title="Estatísticas do GitHub"
+        <img align="center" alt="Kiaz0r-Stats" title="Estatísticas do GitHub" height="180em"
             src="https://github-readme-stats.vercel.app/api?username=Kiaz0r&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
     </a>
     <a href="#">
-        <img align="center" alt="Kiaz0r-Languages" title="Linguagens mais usadas"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiaz0r&layout=compact&theme=dark" />
+        <img align="center" alt="Kiaz0r-Languages" title="Linguagens mais usadas" height="180em"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiaz0r&hide=PowerShell&layout=compact&theme=dark" />
     </a>
 </div>
 
