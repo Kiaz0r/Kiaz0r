@@ -4,11 +4,11 @@
 - 📫 Contate-me por e-mail: wsrocha.wr@outlook.com
 
 <div><br>
-    <a href="https://github.com/Kiaz0r">
+    <a href="#">
         <img align="center" alt="Kiaz0r-Stats" title="Estatísticas do GitHub"
             src="https://github-readme-stats.vercel.app/api?username=Kiaz0r&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
     </a>
-    <a href="https://github.com/Kiaz0r">
+    <a href="#">
         <img align="center" alt="Kiaz0r-Languages" title="Linguagens mais usadas"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiaz0r&layout=compact&theme=dark" />
     </a>
@@ -17,7 +17,7 @@
 ### Estou aprendendo:
 
 <div style="display: inline_block">
-    <a href="https://github.com/Kiaz0r">
+    <a href="#">
         <img align="center" alt="Kiaz0r-Angular" title="Angular" height="30" width="50"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
         <img align="center" alt="Kiaz0r-CSS" title="CSS" height="30" width="50"
@@ -47,7 +47,7 @@
 </div>
 
 <div>
-    <a href="https://github.com/Kiaz0r">
+    <a href="#">
         <img align="center" alt="Kiaz0r-Snake" title="Snake Game"
             src="https://github.com/Kiaz0r/Kiaz0r/blob/output/github-contribution-grid-snake.svg">
 </div>
