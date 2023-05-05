@@ -18,14 +18,14 @@
 
 <div style="display: inline_block">
     <a href="#">
-        <img align="center" alt="Kiaz0r-Angular" title="Angular" height="30" width="50"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
         <img align="center" alt="Kiaz0r-CSS" title="CSS" height="30" width="50"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
         <img align="center" alt="Kiaz0r-HTML" title="HTML" height="30" width="50"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
         <img align="center" alt="Kiaz0r-JavaScript" title="JavaScript" height="30" width="50"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+        <img align="center" alt="Kiaz0r-Markdown" title="Markdown" height="30" width="50"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
         <img align="center" alt="Kiaz0r-Python" title="Python" height="30" width="50"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
         <img align="right" alt="Kiaz0r-Avatar" title="Avatar de Kiaz0r" height="150" width="150"
