@@ -1,6 +1,4 @@
 ### Olá, eu sou o William. 👋🏽
-
-- 💼 #OPENTOWORK
 - 📫 Contate-me por e-mail: wsrocha.wr@outlook.com
 
 <div><br>
